@@ -1,4 +1,4 @@
-# eurobase-dev
+# Eurobase
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,5 +64,163 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-eurobase-dev is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://eurobase.dev/
+Eurobase provides a European‑hosted cloud platform for AI agents and developers. It offers functions, storage, logs, and usage analytics, with a focus on privacy, security, and compliance. Users can deploy apps from GitHub, get live URLs, and manage resources via a web console. The service includes free and paid plans, a roadmap, and extensive documentation.
+
+**Areas:** Cloud · Platform · European · Agents · DeveloperTools
+
+## Eurobase on APIs.io
+
+Everything profiled for Eurobase is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/eurobase-dev/](https://apis.io/providers/eurobase-dev/)** — or go straight to one of the APIs or properties below.
+
+### APIs (22)
+
+- [Eurobase Abuse Notices API](https://apis.io/apis/eurobase-dev/eurobase-dev-abuse-notices-api/) — The Abuse Notices API from Eurobase — 1 operation(s) for abuse notices.
+- [Eurobase Account API](https://apis.io/apis/eurobase-dev/eurobase-dev-account-api/) — The Account API from Eurobase — 6 operation(s) for account.
+- [Eurobase Auth API](https://apis.io/apis/eurobase-dev/eurobase-dev-auth-api/) — The Auth API from Eurobase — 20 operation(s) for auth.
+- [Eurobase Billing API](https://apis.io/apis/eurobase-dev/eurobase-dev-billing-api/) — The Billing API from Eurobase — 4 operation(s) for billing.
+- [Eurobase Deployments API](https://apis.io/apis/eurobase-dev/eurobase-dev-deployments-api/) — The Deployments API from Eurobase — 9 operation(s) for deployments.
+- [Eurobase Feedback API](https://apis.io/apis/eurobase-dev/eurobase-dev-feedback-api/) — The Feedback API from Eurobase — 1 operation(s) for feedback.
+- [Eurobase Function Deployments API](https://apis.io/apis/eurobase-dev/eurobase-dev-function-deployments-api/) — The Function Deployments API from Eurobase — 1 operation(s) for function deployments.
+- [Eurobase Functions API](https://apis.io/apis/eurobase-dev/eurobase-dev-functions-api/) — The Functions API from Eurobase — 5 operation(s) for functions.
+- [Eurobase GitHub API](https://apis.io/apis/eurobase-dev/eurobase-dev-github-api/) — The Github API from Eurobase — 13 operation(s) for github.
+- [Eurobase Health API](https://apis.io/apis/eurobase-dev/eurobase-dev-health-api/) — The Health API from Eurobase — 1 operation(s) for health.
+- [Eurobase Internal API](https://apis.io/apis/eurobase-dev/eurobase-dev-internal-api/) — The Internal API from Eurobase — 45 operation(s) for internal.
+- [Eurobase Invitations API](https://apis.io/apis/eurobase-dev/eurobase-dev-invitations-api/) — The Invitations API from Eurobase — 3 operation(s) for invitations.
+- [Eurobase Notifications API](https://apis.io/apis/eurobase-dev/eurobase-dev-notifications-api/) — The Notifications API from Eurobase — 6 operation(s) for notifications.
+- [Eurobase Openapi.json API](https://apis.io/apis/eurobase-dev/eurobase-dev-openapi-json-api/) — The Openapi.json API from Eurobase — 1 operation(s) for openapi.json.
+- [Eurobase Organizations API](https://apis.io/apis/eurobase-dev/eurobase-dev-organizations-api/) — The Organizations API from Eurobase — 2 operation(s) for organizations.
+- [Eurobase Platform API](https://apis.io/apis/eurobase-dev/eurobase-dev-platform-api/) — The Platform API from Eurobase — 2 operation(s) for platform.
+- [Eurobase Projects API](https://apis.io/apis/eurobase-dev/eurobase-dev-projects-api/) — The Projects API from Eurobase — 51 operation(s) for projects.
+- [Eurobase Source API](https://apis.io/apis/eurobase-dev/eurobase-dev-source-api/) — The Source API from Eurobase — 1 operation(s) for source.
+- [Eurobase Source Connections API](https://apis.io/apis/eurobase-dev/eurobase-dev-source-connections-api/) — The Source Connections API from Eurobase — 5 operation(s) for source connections.
+- [Eurobase Storage Buckets API](https://apis.io/apis/eurobase-dev/eurobase-dev-storage-buckets-api/) — The Storage Buckets API from Eurobase — 3 operation(s) for storage buckets.
+- [Eurobase Storage Objects API](https://apis.io/apis/eurobase-dev/eurobase-dev-storage-objects-api/) — The Storage Objects API from Eurobase — 6 operation(s) for storage objects.
+- [Eurobase Stripe API](https://apis.io/apis/eurobase-dev/eurobase-dev-stripe-api/) — The Stripe API from Eurobase — 1 operation(s) for stripe.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Agentic access (1)
+
+Which operations an agent can call, which act, and which need a human in the loop.
+
+- [Eurobase Dev Agentic Access](https://apis.io/agentic-access/eurobase-dev/eurobase-dev-agentic-access/)
+
+#### JSON Schema (6)
+
+The data models the API reads and writes.
+
+- [AccountUsageResponse](https://apis.io/schemas/eurobase-dev/eurobase-dev-account-usage-response/)
+- [BuildDeployManifest](https://apis.io/schemas/eurobase-dev/eurobase-dev-build-deploy-manifest/)
+- [MeteringIngestRequest](https://apis.io/schemas/eurobase-dev/eurobase-dev-metering-ingest-request/)
+- [ProjectContainerMetricsResponse](https://apis.io/schemas/eurobase-dev/eurobase-dev-project-container-metrics-response/)
+- [ProjectLogsResponse](https://apis.io/schemas/eurobase-dev/eurobase-dev-project-logs-response/)
+- [ProjectTelemetryOverviewResponse](https://apis.io/schemas/eurobase-dev/eurobase-dev-project-telemetry-overview-response/)
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [Eurobase Dev Context](https://apis.io/jsonld/eurobase-dev/eurobase-dev-context/)
+
+#### Overlays (1)
+
+OpenAPI overlays, including conversational phrasing for each operation.
+
+- [Eurobase Dev Openapi Overlay](https://apis.io/overlays/eurobase-dev/eurobase-dev-openapi-overlay/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [Eurobase API Rules](https://apis.io/rules/eurobase-dev/eurobase-dev-rules/)
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Eurobase Dev Authentication](https://apis.io/security/eurobase-dev/eurobase-dev-authentication/)
+- [Eurobase Dev Domain Security](https://apis.io/security/eurobase-dev/eurobase-dev-domain-security/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Eurobase Dev Plans Pricing](https://apis.io/plans/eurobase-dev/eurobase-dev-plans-pricing/)
+
+#### Rate limits (1)
+
+Published request limits.
+
+- [Eurobase Dev Rate Limits](https://apis.io/rate-limits/eurobase-dev/eurobase-dev-rate-limits/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://eurobase.dev/)
+- [Documentation](https://eurobase.dev/docs)
+- [Getting started](https://eurobase.dev/docs/getting-started)
+- [Pricing](https://eurobase.dev/pricing)
+- [Sign up](https://eurobase.dev/signup)
+- [Blog](https://eurobase.dev/blog)
+- [Terms of service](https://eurobase.dev/legal/terms)
+- [Privacy policy](https://eurobase.dev/legal/privacy)
+- [Status](https://eurobase.dev/status)
+
+## API Evangelist rating
+
+**Kin Score 56.1** — strong · rubric 0.26.0 · scored 2026-11-07
+
+| Facet | Score |
+|---|---|
+| Discoverability | 66.1 |
+| Contract quality | 55.0 |
+| Contract governance | 79.1 |
+| Operational transparency | 21.1 |
+| Developer ergonomics | 37.4 |
+| Access clarity | 73.2 |
+
+**Agent readiness 63.8** — agent-native
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | unknown |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | served (partial credit) |
+| Idempotency | verified |
+| Error Semantics | verified |
+| OpenAPI Examples | — |
+| Rate Limit Signal | verified |
+| Event Surface Described | — |
+| Agent Skills | unknown |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | served (partial credit) |
+| Protected Resource Metadata | verified |
+| Dynamic Client Registration | yes |
+| Agentic Commerce | — |
+| Pagination Ratio | paginated |
+| Operation Distinctiveness | distinct |
+| MCP Tool Quality | na |
+
+**Regulatory alignment 24.5** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/eurobase-dev/](https://apis.io/providers/eurobase-dev/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Eurobase: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/eurobase-dev/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
